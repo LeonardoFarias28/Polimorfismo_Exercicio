@@ -1,7 +1,6 @@
 # Polimorfismo_Exercício
 
-
-# Exercício proposto com resultado abaixo esperado. 
+Utilizando o que aprendemos nas aulas de polimorfismo e herança construa um algoritmo que tenha o resultado abaixo esperado. 
 
 Enter the number of Employees: 3
 - Employee #1 data:
