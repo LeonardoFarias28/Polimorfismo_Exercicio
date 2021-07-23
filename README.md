@@ -1,7 +1,7 @@
 # Polimorfismo_Exercício
 
 
-#Exercício proposto com resultado abaixo esperado. 
+# Exercício proposto com resultado abaixo esperado. 
 
 Enter the number of Employees: 3
 - Employee #1 data:
